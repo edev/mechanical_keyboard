@@ -36,3 +36,63 @@ Things I explicitly do not want:
 * Wireless charging (of any kind, in any direction)
 * USB passthrough or hub
 * Audio
+
+# Product selection
+
+## Budget
+
+No set budget. I'll spend what it takes to build my ideal keyboard, but I won't spend money for status symbols like scalper-priced keycaps.
+
+## Form factor
+
+I'm used to full-sized keyboards with media keys and ~6 macro keys, but I'm starting to consider 60% layouts for the same reasons I love Vim, i.e. keeping my fingers on the home row. I'm fairly uncomfortable with the idea of ditching all of the other keys, but hopefully I can get hands-on time with some 60% keyboards and try them out locally.
+
+In fact, editing this document with GitHub's default editor leaves me wishing I could use Vim keys on a keyboard layer instead of arrow keys, Home, End, etc.
+
+If I'm fully comfortable with a 60% keyboard, I certainly do like the compactness, lightness, ergonomics, and so on that the layout offers.
+
+One important unknown for me is whether I will still be able to press F keys, Delete, etc. to enter UEFI menus at boot.
+
+## Case, PCB, etc.
+
+I don't yet have enough information to write about these. I'm initially inclined toward a stained and finished hardwood case, and obviously I want to make choices that deaden sound. I also want to keep the case reasonably light. I don't anticipate wanting weights, for instance.
+
+I assume I will want hot swap sockets, since they seem so obviously convenient, but I don't know how durable they are. I don't own proper soldering equipment, so hot swap might save me quite a bit of money, not to mention time. Reliability and durability matter more to me, though, so I might wind up opting to solder my switches.
+
+## Controller
+
+I'm aware of AVR and ARM options, broadly speaking, and I believe AVR is nearing end of life in terms of firmware support due to hardware limitations. I presume I want ARM, but I don't have a specific controller or board in mind, yet.
+
+## Firmware
+
+**[QMK]** My understanding so far is that QMK is the typical go-to for most enthusiasts. I've spent an hour or so browsing the docs, and I like what I see. I'm under the impression that it may be difficult or impossible to build a wireless keyboard with QMK due to closed source Bluetooth firmware. I understand and respect the principled stance of GPL-licensed firmware. At the same time, wireless connectivity is a hard requirement for me, so I don't know if QMK will work for my use case.
+
+**[ZMK]** I understand that ZMK specifically uses an MIT license to allow the use of such closed source firmware packages and supports Bluetooth on some controllers out of the box as a result. I may opt for ZMK because of this. I haven't spent much time reading ZMK's docs.
+
+**[TMK]** My understanding is that QMK forked from TMK and that most in the community have chosen QMK. While I respect TMK, I initially choose to follow the wisdom of the pack, unless information comes to light that indicates TMK would be the better choice for my use case.
+
+## Switches
+
+I don't know, yet.
+
+## Stabilizers
+
+I don't know, yet. People seem to swear by Durock, but I need to do a lot more research.
+
+## Keycaps
+
+From what I have heard, I presume I will either want PBT double-shot for backlit legends (which I thoroughly enjoy on my current keyboard as well as my laptop) or single-shot PBT with dye-sub legends. In the latter case, I might want fully custom legends that document my layers. If possible, I might also want to mix backlit and dye-sub legends in some way.
+
+I have absolutely no idea what keycap profiles I want.
+
+I don't think I like pudding keycaps.
+
+I'm wary of over-customizing keycaps (e.g. by custom-printing legends). I know my keyboard layers are likely to change over time, and I don't want to face the choice between replacing my keycaps due to (potentially minor) changes in my layer configuration and having keycaps that don't reflect the keys' actual functions. I'm not sure how I will resolve this. It's conceivable that I might write my own secondary labels in pen (maybe in architectural script) and use a solvent like acetone to remove and replace them when needed; there might be other creative options as well.
+
+## Cables
+
+I have no specific products or vendors in mind, yet. I prefer straight cables over coiled cables.
+
+## Batteries
+
+Ideally, I would love to be able to power the keyboard with rechargeable Lithium standard cells, but I don't know much about them (yet) and don't know how viable this is. The battery **must** be fully replaceable and standard so that I can be confident that I'll be able to replace it for at least 10 years.
