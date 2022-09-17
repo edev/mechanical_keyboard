@@ -14,3 +14,19 @@ Building a custom mechanical keyboard involves a great deal of research and plan
 * I often listen to quiet, instrumental music while I work. I don't want my keyboard to disturb it.
 * I want my next keyboard to last me a long time, both in terms of meeting my needs and in terms of being fully serviceable and supported by firmware updates for a long time.
 * I sometimes control 2-3 computers on my desk in a single session, e.g. desktop, laptop, and home server.
+
+# Wish list
+
+* Silent operation.
+* Tactile switches.
+* Maximally powerful firmware customization.
+* Full functionality and customization on Linux, full or nearly full on Windows.
+* Secure, encrypted wireless operation via Bluetooth. A dongle option would also be great, but I know it might not happen.
+* Wired operation via detachable USB-C. Multiple USB-C connections would be great, but I know it might not happen.
+* Input switching between USB-C and wireless, preferably via programmable key combos.
+* N-key rollover.
+* Full, long-term serviceability, i.e. the ability to replace or upgrade every single part, for at least 10 years.
+* Long-term firmware support, i.e. at least 10 years of expected support for the controller.
+* Per-key RGB backlighting.
+* Warm, elegant, timeless aesthetic. I have no interest in what's fashionable at any moment in time.
+* Rounded case corners, light weight, and other design choices for comfortable everyday use and transportation.
