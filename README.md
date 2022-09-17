@@ -30,3 +30,9 @@ Building a custom mechanical keyboard involves a great deal of research and plan
 * Per-key RGB backlighting.
 * Warm, elegant, timeless aesthetic. I have no interest in what's fashionable at any moment in time.
 * Rounded case corners, light weight, and other design choices for comfortable everyday use and transportation.
+
+Things I explicitly do not want:
+
+* Wireless charging (of any kind, in any direction)
+* USB passthrough or hub
+* Audio
