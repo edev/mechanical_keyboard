@@ -53,7 +53,7 @@ If I'm fully comfortable with a 60% keyboard, I certainly do like the compactnes
 
 One important unknown for me is whether I will still be able to press F keys, Delete, etc. to enter UEFI menus at boot.
 
-## Case, PCB, etc.
+## Case, PCB, plate
 
 I don't yet have enough information to write about these. I'm initially inclined toward a stained and finished hardwood case, and obviously I want to make choices that deaden sound. I also want to keep the case reasonably light. I don't anticipate wanting weights, for instance.
 
