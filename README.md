@@ -37,6 +37,35 @@ Things I explicitly do not want:
 * USB passthrough or hub
 * Audio
 
+# Case study: Hipyo Tech
+
+Hipyo Tech built a silent keyboard using the Velocifire Sun 68 keyboard kit [2]. The Sun 68 makes extensive use of gaskets, foams, and so on. The configuration is as follows, from the bottom up [3][4][5]:
+
+* Silicone gaskets on the bottom case's screw holes.
+* Two poron pads between the bottom case and the PCB.
+* Silicone gaskets on the front and back edges of the four corners of the top case and centered on the left and right sides of the top case.
+* Poron gaskets all along the top and bottom of the front and back edges of the polycarbonate plate.
+* Washers/shims under the stabilizers. Material unknown.
+* (Presumably brass) standoffs between the PCB and plate, secured with screws.
+* Thin EVA film between the PCB and switches.
+* Poron pad between the PCB and the plate.
+
+The keyboard's sound varies dramatically depending on the switches. [4] and [5] demonstrate louder switches with tuned sound profiles. For a silent keyboard, choose silent switches, clearly.
+
+Hipyo used Gazzew Boba Gum switches with heavy lube (Krytox 205 G0) for nearly silent operation. These have dampening pads that look like silicone or a similar material on the bottoms of the rails [2]. He strongly dislikes the feel of silent switches in general, perhaps because of the dampened bottom-out. He also chose 50 g springs so that he could type with less force and thus generate less noise.
+
+## Lessons learned
+
+Gasket mounting and foam do not, on their own, silence otherwise loud switches, at least as used in the Sun 68. It's unclear whether gasket mounting or other tricks are needed to further silence already quiet switches. Regardless, others in the community affirm that gasket mounting does alter the sound of the keyboard significantly [6].
+
+Silent switches appear to be very quiet, as advertised, but might also feel very unpleasant to use. There might be a hard tradeoff between silent operation and a pleasant typing experience; if so, I will need to find the right balance for my own preferences. More case studies might help clarify this.
+
+A lighter typing style, aided by lighter switches, will also yield a quieter typing experience overall.
+
+Moderate to heavy lube might also contribute to quiet switch operation.
+
+I will definitely need to test silent switches in person before committing to a choice.
+
 # Product selection
 
 ## Budget
@@ -112,3 +141,13 @@ Community forum: [geekhack.org](https://geekhack.org/)
 # Sources
 
 [1] KristoferYee (YouTube): [*The Worst Hobby on the Internet - Mechanical Keyboards (Beginners Guide)*](https://www.youtube.com/watch?v=xzWm40Tq4F4)
+
+[2] Hipyo Tech (YouTube): [*The worlds most SILENT keyboard.🔇*](https://www.youtube.com/watch?v=Q9k0YkiwgUk)
+
+[3] Velocifire: [*[Extra] Sun68 Gasket Keyboard Kit*](https://www.velocifiretech.com/collections/sun-68/products/fyf?variant=39749347967094)
+
+[4] bored bear (YouTube): [*Sun68 Prototype Custom Keyboard Build & Typing Sounds | E-yellow with H1 switches and BoW Keycaps*](https://www.youtube.com/watch?v=lpkNIH2AKL8)
+
+[5] Keyeah (YouTube): [*Sun68(CN ver) Unboxing & Build | Glacier Panda Switches*](https://www.youtube.com/watch?v=Tsip9_p4vog)
+
+[6] GeekHack: [*Topic: What is a gasket mounted keyboard?*](https://geekhack.org/index.php?topic=101731.0)
