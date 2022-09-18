@@ -59,6 +59,8 @@ I don't yet have enough information to write about these. I'm initially inclined
 
 I assume I will want hot swap sockets, since they seem so obviously convenient, but I don't know how durable they are. I don't own proper soldering equipment, so hot swap might save me quite a bit of money, not to mention time. Reliability and durability matter more to me, though, so I might wind up opting to solder my switches.
 
+I don't know exactly what layout I want in terms of details like shift key size. KristoferYee's beginners guide suggests 2.25u as a default. I want what I've always considered "standard" in my own experience; I will learn precisely how to specify this and update this section. I will ensure that the PCB, plate, and keycap set all match. The layout will be US QWERTY.
+
 ## Controller
 
 I'm aware of AVR and ARM options, broadly speaking, and I believe AVR is nearing end of life in terms of firmware support due to hardware limitations. I presume I want ARM, but I don't have a specific controller or board in mind, yet.
