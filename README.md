@@ -105,6 +105,8 @@ Ideally, I would love to be able to power the keyboard with rechargeable Lithium
 
 Marketplace: [kbdfans.com](https://kbdfans.com)
 
+Community forum & secondhand market: [r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)
+
 # Sources
 
 KristoferYee (YouTube): [*The Worst Hobby on the Internet - Mechanical Keyboards (Beginners Guide)*](https://www.youtube.com/watch?v=xzWm40Tq4F4)
