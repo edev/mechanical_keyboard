@@ -101,6 +101,10 @@ I have no specific products or vendors in mind, yet. I prefer straight cables ov
 
 Ideally, I would love to be able to power the keyboard with rechargeable Lithium standard cells, but I don't know much about them (yet) and don't know how viable this is. The battery **must** be fully replaceable and standard so that I can be confident that I'll be able to replace it for at least 10 years.
 
+# Resources
+
+Marketplace: [kbdfans.com](https://kbdfans.com)
+
 # Sources
 
 KristoferYee (YouTube): [*The Worst Hobby on the Internet - Mechanical Keyboards (Beginners Guide)*](https://www.youtube.com/watch?v=xzWm40Tq4F4)
