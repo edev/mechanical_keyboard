@@ -81,6 +81,8 @@ I don't know, yet.
 
 I don't know, yet. People seem to swear by Durock, but I need to do a lot more research.
 
+KristoferYee's beginners guide recommends screw-in stabilizers and recommends against snap-in stabilizers because the latter can easily snap out of place. This sounds like good advice to me.
+
 ## Keycaps
 
 From what I have heard, I presume I will either want PBT double-shot for backlit legends (which I thoroughly enjoy on my current keyboard as well as my laptop) or single-shot PBT with dye-sub legends. In the latter case, I might want fully custom legends that document my layers. If possible, I might also want to mix backlit and dye-sub legends in some way.
