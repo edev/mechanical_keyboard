@@ -74,7 +74,7 @@ No set budget. I'll spend what it takes to build my ideal keyboard, but I won't 
 
 ## Form factor
 
-I'm used to full-sized keyboards with media keys and ~6 macro keys, but I'm starting to consider 60% layouts for the same reasons I love Vim, i.e. keeping my fingers on the home row. I'm fairly uncomfortable with the idea of ditching all of the other keys, but hopefully I can get hands-on time with some 60% keyboards and try them out locally.
+I'm used to full-size keyboards with media keys and ~6 macro keys, but I'm starting to consider 60% layouts for the same reasons I love Vim, e.g. keeping my fingers on the home row. I'm fairly uncomfortable with the idea of ditching all of the other keys, but hopefully I can get hands-on time with some 60% keyboards and try them out locally. 
 
 In fact, editing this document with GitHub's default editor leaves me wishing I could use Vim keys on a keyboard layer instead of arrow keys, Home, End, etc.
 
