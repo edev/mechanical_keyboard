@@ -66,6 +66,21 @@ Moderate to heavy lube might also contribute to quiet switch operation.
 
 I will definitely need to test silent switches in person before committing to a choice.
 
+# Case study: IO Sam
+
+IO Sam built a silent keyboard using the Glorious GMMK TKL case and Zeal PC Aqua Zilent switches, aiming for a budget of around $250 [7]. He discussed the subject of silent keyboards in depth and detailed the process for building his budget silent keyboard. Like Hipyo Tech, IO Sam's keyboard was very quiet. Unlike Hipyo, IO Sam had no complaints about the feel of his switches.
+
+He explicitly confirmed what I observed from Hipyo Tech's video and other builds using the same case as Hipyo: "Your choice of switches is the number one factor that will define the sound levels and characteristics of your board. Period. I don't care how fancy your keyboard case is and what kind of plate mounting mechanism it uses, the switch is ultimately *the* thing that will determine the noise level coming out of your board."
+
+IO Sam gave a priority list for building a quiet keyboard:
+
+1. **Switches:** silent switches make a silent keyboard. He used Zeal PC Aqua Zilents, with 67 g springs. He recommended a source for an in-depth review [8]. IO Sam considered these particular switches to be among the best on the market.
+2. **Lube:** Krytox 205 G0.
+3. **Keycaps:** PBT keycaps with thick walls for quieter, lower-pitched sound. His keycaps were 1.25mm thick.
+4. **Stabilizers:** rattling stabilizers are key causes of disruptive noise in many/most keyboards. He used GMK Cherry-style plate-mounted stabilizers, but I presume I will use screw-in PCB-mounted ones in my build for strength and to reduce the chance of noise from rattling feet. Note that he had to clip all four feet on his stabilizers to eliminate unwanted noise.
+5. **Damping foam:** buy a sorbothane sheet and cut it to fit between the bottom case and the PCB to prevent the case from echoing and amplifying sound. In general, dense foams work best for sound damping, and he recommends sorbothane as what many enthusiasts consider best-in-class.
+6. **Case and PCB:** his comments focused on budgetary concerns rather than sound damping. He recommended that first-time builders use a hot swap PCB.
+
 # Product selection
 
 ## Budget
@@ -153,3 +168,7 @@ Community forum: [geekhack.org](https://geekhack.org/)
 [5] Keyeah (YouTube): [*Sun68(CN ver) Unboxing & Build | Glacier Panda Switches*](https://www.youtube.com/watch?v=Tsip9_p4vog)
 
 [6] GeekHack: [*Topic: What is a gasket mounted keyboard?*](https://geekhack.org/index.php?topic=101731.0)
+
+[7] IO Sam (YouTube): [*How to build a whisper quiet mechanical keyboard (modded GMMK + Aqua Zilents + Matrix Keycaps)*](https://www.youtube.com/watch?v=3s4ruFFqmqo)
+
+[8] uploadTwashe (YouTube): [*The Zilent 67g Switch Review - ZealPC - I like these more than Holy Pandas!*](https://www.youtube.com/watch?v=JKtF9nB-3BU)
