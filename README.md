@@ -101,6 +101,20 @@ He provided a tool list as well:
 * Cutting mat for cutting foam to size.
 * Optional magnifier lamp.
 * Cotton swabs and isopropyl alcohol for cleaning up lube.
+* Optional switch modding station (AKA lube station).
+
+IO Sam walked through his build process. (In the list below, I omit details that are irrelevant for my own build.) His procedure was as follows:
+
+1. Lube the switches. "The first thing to note here is that I went for a thicker lube coating, since these Zilents switches have a very sharp tactility and would not become numb if they were lubed generously. The goal here is to completely drown any hint of ping noise or scratchiness out of the switches as much as possible and go for a buttery, Topre-like sound for this board." For an introduction to lubing switches, he recommended another YouTuber's guide [9].
+
+    * Bottom housing: rails (generously), inside of barrel/well, and floor.
+    * Stem spring: lube thoroughly on all sides. (Note: Hipyo Tech generally uses the much faster plastic bag method.)
+    * Stem: all four walls plus center shaft.
+    * Top housing: all four rails.
+
+2. Clip the switches' extra legs, if needed. He explained that some switches are "PCB-style" switches: they include two extra, plastic legs on the bottom to help stabilize them during soldering. "Plate-style" switches instead have clips on the sides to secure into the plate for stability and lack these extra legs. Some hot swap PCBs omit the holes for these extra legs. Thus, if I choose a PCB without these extra holes (i.e. with 3 holes instead of 5) and PCB-style switches with these legs, I will need to use flush cutters to trim these two, extra plastic legs.
+
+3. Test all of the switch contacts using keyboard-testing software. Bridge the switches' contacts with tweezers and verify that the computer registers keypresses.
 
 # Product selection
 
@@ -199,3 +213,5 @@ Community forum: [geekhack.org](https://geekhack.org/)
 [7] IO Sam (YouTube): [*How to build a whisper quiet mechanical keyboard (modded GMMK + Aqua Zilents + Matrix Keycaps)*](https://www.youtube.com/watch?v=3s4ruFFqmqo)
 
 [8] uploadTwashe (YouTube): [*The Zilent 67g Switch Review - ZealPC - I like these more than Holy Pandas!*](https://www.youtube.com/watch?v=JKtF9nB-3BU)
+
+[9] Joe Gaz (YouTube): [*How to Lube Mechanical Keyboard Switches! (Detailed)*](https://www.youtube.com/watch?v=-GkZpD58dFk)
