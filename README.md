@@ -75,11 +75,32 @@ He explicitly confirmed what I observed from Hipyo Tech's video and other builds
 IO Sam gave a priority list for building a quiet keyboard:
 
 1. **Switches:** silent switches make a silent keyboard. He used Zeal PC Aqua Zilents, with 67 g springs. He recommended a source for an in-depth review [8]. IO Sam considered these particular switches to be among the best on the market.
-2. **Lube:** Krytox 205 G0.
-3. **Keycaps:** PBT keycaps with thick walls for quieter, lower-pitched sound. His keycaps were 1.25mm thick.
+2. **Lube:** Krytox 205 G0 and Permatex Dielectric Tune-Up Grease.
+3. **Keycaps:** PBT keycaps with thick walls for quieter, lower-pitched sound. His keycaps were 1.25mm thick, but he acknowledges that more premium options are thicker and that these might be superior.
 4. **Stabilizers:** rattling stabilizers are key causes of disruptive noise in many/most keyboards. He used GMK Cherry-style plate-mounted stabilizers, but I presume I will use screw-in PCB-mounted ones in my build for strength and to reduce the chance of noise from rattling feet. Note that he had to clip all four feet on his stabilizers to eliminate unwanted noise.
-5. **Damping foam:** buy a sorbothane sheet and cut it to fit between the bottom case and the PCB to prevent the case from echoing and amplifying sound. In general, dense foams work best for sound damping, and he recommends sorbothane as what many enthusiasts consider best-in-class.
-6. **Case and PCB:** his comments focused on budgetary concerns rather than sound damping. He recommended that first-time builders use a hot swap PCB.
+5. **Damping foam:** buy a sorbothane sheet and cut it to fit between the bottom case and the PCB to prevent the case from echoing and amplifying sound. In general, dense foams work best for sound damping, and he recommends sorbothane as what many enthusiasts consider best-in-class. He used a sorbothane with a hardness of 50 Duro.
+6. **Case and PCB:** his comments focused on budgetary concerns rather than sound damping. He recommended that first-time builders use a hot swap PCB. PCBs that support PCB-mounted, screw-in stabilizers are best. He chose the GMMK because of its TLK size (per his preference), aluminum plate for rigidity, hot swap sockets, decent looks, and relatively easy modding. This is not the case for me, for many reasons, starting with software customization limitations.
+
+He provided a tool list as well:
+
+* A large, well-lit workspace.
+* Soldering iron (unless using hot swap sockets).
+* Utility knife or X-Acto knife for cutting damping foam to size.
+* Switch opener. The most popular 3, he said, were:
+  * MechanicalKeyboards.com MX Switch Top Removal Tool. Works best on soldered, plateless switches. Not recommended for use on loose switches.
+  * KBDfans X ai03 2-in-1 Aluminum Switch Opener. His personal favorite, since it opens both Cherry/Gateron and Kailh switches.
+  * KiiBoss Aluminum MX kiiOpener. Many find it more ergonomic than the KBDfans model because it's taller.
+* Fine nylon brushes for lubing switches and stabilizers. He recommended any generic acrylic, oil, or watercolor paintbrush set that includes small-gauge liner brushes. He used #2 for lubing switches and #6 for lubing stabilizers.
+* Precision screwdrivers.
+* Long-nose pliers.
+* Precision tweezers.
+* Jeweler pick-up tool.
+* Flush cutter for clipping stabilizer and switch legs. Only needed if there's a mismatch between the PCB and the switches or if the stabilizers tick and need modding.
+* Eye protection when clipping stabilizer and switch legs!
+* Metal ruler and optional caliper for cutting foam to size.
+* Cutting mat for cutting foam to size.
+* Optional magnifier lamp.
+* Cotton swabs and isopropyl alcohol for cleaning up lube.
 
 # Product selection
 
