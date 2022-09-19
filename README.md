@@ -155,6 +155,8 @@ Marketplace: [Drop](https://drop.com/)
 
 Marketplace: [KeebsForAll](https://keebsforall.com/)
 
+Marketplace: [1up Keyboards](https://1upkeyboards.com/)
+
 Community forum & secondhand market: [r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)
 
 Community forum: [geekhack.org](https://geekhack.org/)
