@@ -78,6 +78,8 @@ I'm used to full-size keyboards with media keys and ~6 macro keys, but I'm start
 
 In fact, editing this document with GitHub's default editor leaves me wishing I could use Vim keys on a keyboard layer instead of arrow keys, Home, End, etc.
 
+Of course, there's nothing stopping me from using the same, home-row-centric approach on a larger keyboard (e.g. 75%, TKL, or full-size). This approach is much friendlier for casual use or for use by others. Furthermore, it allows me to set a "default" layer that's fully stock and then, on other layers, use all those extra keys as dedicated macro keys.
+
 If I'm fully comfortable with a 60% keyboard, I certainly do like the compactness, lightness, ergonomics, and so on that the layout offers.
 
 One important unknown for me is whether I will still be able to press F keys, Delete, etc. to enter UEFI menus at boot.
