@@ -102,6 +102,7 @@ He provided a tool list as well:
 * Optional magnifier lamp.
 * Cotton swabs and isopropyl alcohol for cleaning up lube.
 * Optional switch modding station (AKA lube station).
+* Bandages and a glue stick, if performing the Band-Aid stabilizer mod.
 
 IO Sam walked through his build process. (In the list below, I omit details that are irrelevant for my own build.) His procedure was as follows:
 
@@ -115,6 +116,37 @@ IO Sam walked through his build process. (In the list below, I omit details that
 2. Clip the switches' extra legs, if needed. He explained that some switches are "PCB-style" switches: they include two extra, plastic legs on the bottom to help stabilize them during soldering. "Plate-style" switches instead have clips on the sides to secure into the plate for stability and lack these extra legs. Some hot swap PCBs omit the holes for these extra legs. Thus, if I choose a PCB without these extra holes (i.e. with 3 holes instead of 5) and PCB-style switches with these legs, I will need to use flush cutters to trim these two, extra plastic legs.
 
 3. Test all of the switch contacts using keyboard-testing software. Bridge the switches' contacts with tweezers and verify that the computer registers keypresses.
+
+4. Mod the stabilizers. He removed the original, plate-mounted stabilizers, discarded them, and cleaned the factory lube from the plate with rubbing alcohol and cotton swaps. He disassembled his new stabilizers and modified them as follows:
+
+    * Outer housings: lube the inside walls with Krytox.
+    * Stems: clip all four legs. Lube all four sides with Krytox.
+    * Wires: lube the corners, where they snap into the outer housings, with Krytox. Lube the ends with Permatex.
+    * PCB: Band-Aid mod. Specifically, cut out strips of standard, small bandages; glue them to the PCB where the stabilizer stems will impact; and spread Permatex on top of them to further absorb sound when the stabilizer stems come down.
+
+    It's unclear to me from the video whether either the Band-Aid mod or clipping the stabilizer stems is necessary on the PCB-mounted, screw-in stabilizers I hope to use for my own keyboard. I will need to research this further.
+
+5. Install sorbothane in the bottom case. Cut it to fit and install it. Leave the outer plastic on until the end, since sorbothane is very sticky.
+ 
+    After observing this, I wonder if it might be helpful to apply a layer of fabric or foam over the top of the sorbothane to prevent it from accumulating a permanent layer of dust or sticking to the PCB. IO Sam re-applied the thin, stock foam sheet from the GMMK atop the sorbothane to resolve this issue.
+   
+    It's also clearly important to understand the geometry of the bottom case and the height of the cavity underneath the PCB to choose the most appropriate thickness of sorbothane sheet: he spent a lot of time cutting out individual strips of sorbothane to fit into the spaces between the bottom case's ribs, when he might have been able to simply cut a single rectangle and then cut out holes for the standoffs if the sorbothane had been a couple millimeters thinner.
+   
+6. Assemble the keyboard.
+
+7. Test keys and stabilizers for proper function and noise; fix any issues, e.g. by re-applying lube.
+
+    To further silence stabilizers, he referred to another YouTuber's video detailing a technique for installing O rings on the stabilizer wires [10]. He found this to be unnecessary on his keyboard.
+
+## Lessons learned
+
+This comprehensive build video provides high-quality reference material for many of the tools, techniques, and parts I'll need to build my own, silent keyboard. I will research other people's views on many of the techniques and products he chose, and I may adopt them for my own build.
+
+This video introduced me to and taught me about two, particularly important topics: sorbothane and lubing for silence. I will carry these lessons forward.
+
+Compared to Hipyo, IO Sam also appeared to choose much higher quality switches, and he appeared to like them much more than Hipyo as well. If others in the space agree about these Zilent switches, and if there are no further evolutions in switch design in the nearly two years since IO Sam published his video, I may use these switches as well.
+
+Gasket mounting is clearly optional for silent builds. I will need to evaluate this further before making final choices, unless I find a case kit that fits my use case perfectly and effectively makes this choice for me.
 
 # Product selection
 
@@ -215,3 +247,5 @@ Community forum: [geekhack.org](https://geekhack.org/)
 [8] uploadTwashe (YouTube): [*The Zilent 67g Switch Review - ZealPC - I like these more than Holy Pandas!*](https://www.youtube.com/watch?v=JKtF9nB-3BU)
 
 [9] Joe Gaz (YouTube): [*How to Lube Mechanical Keyboard Switches! (Detailed)*](https://www.youtube.com/watch?v=-GkZpD58dFk)
+
+[10] Mike Walker (YouTube): [*Silencing stabs the Walker way*](https://www.youtube.com/watch?v=9pCilf3h7O4)
