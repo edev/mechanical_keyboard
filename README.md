@@ -172,9 +172,19 @@ If I have an 80%-or-larger keyboard, e.g. TKL, 1800, or full-size, and I'm looki
 
 ## Case, PCB, plate
 
-I don't yet have enough information to write about these. I'm initially inclined toward a stained and finished hardwood case, and obviously I want to make choices that deaden sound. I also want to keep the case reasonably light. I don't anticipate wanting weights, for instance.
+**[Case]** I'm aware that I will probably want to swap my keycaps periodically, probably mostly for aesthetic reasons. Thus, I want my case to act as a neutral base. While I love the look of hardwood, I think black or dark gray is a much more generally useful colorway for this purpose.
 
-I assume I will want hot swap sockets, since they seem so obviously convenient, but I don't know how durable they are. I don't own proper soldering equipment, so hot swap might save me quite a bit of money, not to mention time. Reliability and durability matter more to me, though, so I might wind up opting to solder my switches.
+Since I tend to move my keyboards around quite a lot, I want to optimize my case for this: rounded edges for safety, easy-to-grip material, and moderate to light weight. For these reasons as well as to allow Bluetooth operation, plastic seems to be ideal.
+
+While I rarely use them, I want my case to include fold-out feet. I simply can't imagine going to all the effort and expense of building this keyboard while lacking such a basic ergonomic and quality-of-life feature.
+
+**[PCB]** I assume I will want hot swap sockets, since they seem so obviously convenient, but I don't know how durable they are. I don't own proper soldering equipment, so hot swap might save me quite a bit of money, not to mention time. Reliability and durability matter more to me, though, so I might wind up opting to solder my switches in the long run. Even if I do that, it might still be useful to have a hot swap board on hand so I can experiment quickly and easily, if I find myself building multiple keyboards. Therefore, I tentatively choose hot swap for this build.
+
+**[Plate]** I have no strong preferences, though this might change in time. I simply don't yet know what I like.
+
+**[Keychron K8 Pro]** The [Barebone kit](https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=39755425972313) seems to fit all of these requirements very well.
+
+## Layout
 
 I don't know exactly what layout I want in terms of details like shift key size. KristoferYee's beginners guide suggests 2.25u as a default [1]. I want what I've always considered "standard" in my own experience; I will learn precisely how to specify this and update this section. I will ensure that the PCB, plate, and keycap set all match. The layout will be US QWERTY.
 
