@@ -156,15 +156,19 @@ No set budget. I'll spend what it takes to build my ideal keyboard, but I won't 
 
 ## Form factor
 
-I'm used to full-size keyboards with media keys and ~6 macro keys, but I'm starting to consider 60% layouts for the same reasons I love Vim, e.g. keeping my fingers on the home row. I'm fairly uncomfortable with the idea of ditching all of the other keys, but hopefully I can get hands-on time with some 60% keyboards and try them out locally. 
+I'm used to full-size keyboards with media keys and ~6 macro keys. I'm willing to consider smaller keyboards, but I'm hesitant. My thoughts on some common 60% keyboard arguments are as follows:
 
-In fact, editing this document with GitHub's default editor leaves me wishing I could use Vim keys on a keyboard layer instead of arrow keys, Home, End, etc.
+1. *60% keyboards are better for producitivity because your keyboard's layers bring the keys to you, just like Vim, rather than requiring your fingers to travel far and wide.* I like this productivity-based argument, and, yes, this is one of the reasons I love Vim, too. However, I can achieve these exact same effects on the 60% portion of any larger keyboard as well! At its heart, this is an argument in favor of a layered keymap, not a smaller keyboard. I am thoroughly convinced that I want to try using a layered keymap on whatever keyboard I choose.
 
-Of course, there's nothing stopping me from using the same, home-row-centric approach on a larger keyboard (e.g. 75%, TKL, or full-size). This approach is much friendlier for casual use or for use by others. Furthermore, it allows me to set a "default" layer that's fully stock and then, on other layers, use all those extra keys as dedicated macro keys.
+2. *60% keyboards are more egonomic for gaming because all that extra width pushes your mouse hand to the right.* This argument holds very little weight for me, given my wide frame and long arms. I admit that I might change my mind after trying it for a while, but I'm strongly disinclined to make a radical change to my keyboard form factor based on an ergonomics argument that doesn't resonate with my own experiences.
 
-If I'm fully comfortable with a 60% keyboard, I certainly do like the compactness, lightness, ergonomics, and so on that the layout offers.
+3. *60% keyboards are small and compact, so they'll improve the look and feel of your workspace.* I have always liked the size of my keyboard; this argument carries no weight for me at all.
 
-One important unknown for me is whether I will still be able to press F keys, Delete, etc. to enter UEFI menus at boot.
+A larger keyboard will be much friendlier for casual use, since most or all keys will be available without needing to resort to layers. It will also be much easier for friends to use or borrow: a tiny keyboard would be uncomfortable or even unusable for a guest! Furthermore, it allows me to set a "default" layer that's fully stock and then, on other layers, use all those extra keys as dedicated macro keys.
+
+I'm willing to try a tenkeyless (TKL) layout. This seems to me like the ideal resolution to all of my priorites and concerns above, and I like the look of it, too. It preserves the exact layout I have known and liked my whole life. I might miss the numpad a bit, but I can touch type the entire 60% portion of my keyboard comfortably and at speed, so it will probably just push me to further hone my numeric-symbolic typing. I can always add a standalone numpad later if I want one. Besides, I've adjusted just fine to a tenkeyless laptop over the last few years.
+
+If I have an 80%-or-larger keyboard, e.g. TKL, 1800, or full-size, and I'm looking for a second keyboard, I'll be much more inclined to consider a more radical departure from full-size QWERTY. There are very interesting 60%, ergonomic, split, and ortholinear keyboard kits made for ZMK, for instance. A 60% keyboard running ZMK might be a great travel (or backpack) keyboard, especially given that the battery might last in the ballpark of six months. I intend for my first custom keyboard to be TKL, though.
 
 ## Case, PCB, plate
 
