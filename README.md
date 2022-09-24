@@ -192,9 +192,11 @@ I'm aware of AVR and ARM options, broadly speaking, and I believe AVR is nearing
 
 ## Stabilizers
 
-I don't know, yet. People seem to swear by Durock, but I need to do a lot more research.
-
 KristoferYee's beginners guide recommends screw-in stabilizers and recommends against snap-in stabilizers because the latter can easily snap out of place [1]. This sounds like good advice to me.
+
+My general sense from others in the community is that [Zeal's screw-in stabilizers](https://zealpc.net/products/zealstabilizers?variant=27196398790) are pretty much the best around. Most commonly, I hear builders saying they're choosing cheaper stabilizers that they find to be almost as good as Zeal's. I suspect I will need to lube them and Band-Aid mod them as IO Sam laid out, though I don't know for sure [7].
+
+I consistently hear that Durock stabilizers are very good as well; Hipyo Tech and others commonly recommend them as their go-to stabilizers. I'll keep them in mind, but I'm tentatively choosing Zeal's screw-in stabilizers.
 
 ## Keycaps
 
