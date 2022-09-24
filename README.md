@@ -188,7 +188,7 @@ I'm aware of AVR and ARM options, broadly speaking, and I believe AVR is nearing
 
 ## Switches
 
-I don't know, yet.
+[Zeal's Zilent V2 (Silent Tactile)](https://zealpc.net/products/zilent?variant=5894817710118) seem to be widely regarded as either the best or among the best silent tactile switches, and Zeal seems to have a reputation for excellence in general. I'm tentatively choosing these switches, but I'll try the [Zeal Switch Sampler Pack](https://zealpc.net/products/zeal-switch-sampler-pack?variant=13152556613695) switch tester to confirm that I like them before buying a full set.
 
 ## Stabilizers
 
