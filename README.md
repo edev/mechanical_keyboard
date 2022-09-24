@@ -232,7 +232,9 @@ I have no specific products or vendors in mind, yet. I prefer straight cables ov
 
 ## Batteries
 
-Ideally, I would love to be able to power the keyboard with rechargeable Lithium standard cells, but I don't know much about them (yet) and don't know how viable this is. The battery **must** be fully replaceable and standard so that I can be confident that I'll be able to replace it for at least 10 years.
+After talking with a friend and examining various ZMK boards and shields, it seems they're commonly built to work with standard, rechargeable, 3.7V Lithium batteries [11]. If I wind up building a keyboard that requires me to provide my own battery, I'm inclined to consider a standardized form factor like 18650. I will investigate form factors if and when the times comes.
+
+My general strategy is simple: since the battery is the primary wear part on almost any battery-containing device, I intend to ensure that whatever battery I use is fully replaceable and standard so that I can be confident that I'll be able to replace it for at least 10 years.
 
 # Resources
 
