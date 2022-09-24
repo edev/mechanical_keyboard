@@ -190,6 +190,10 @@ I'm aware of AVR and ARM options, broadly speaking, and I believe AVR is nearing
 
 **[TMK]** My understanding is that QMK forked from TMK and that most in the community have chosen QMK. While I respect TMK, I initially choose to follow the wisdom of the pack, unless information comes to light that indicates TMK would be the better choice for my use case.
 
+At this time, either QMK or ZMK might be a great fit for my everyday needs. ZMK's more mordern architecture and, in particular, its exceptional battery life argue persuasively in favor of ZMK. However, after reviewing all hardware listed on the ZMK docs, I haven't seen a single product that fits my other needs, particularly a TKL form factor [11]. Therefore, ZMK seems like a dead end for this particular keyboard build.
+
+Meanwhile, the [Keychron K8 Pro Barebone kit](https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=39755425972313) provides QMK and Bluetooth 5.1 support simultaneously, apparently by using a separate Bluetooth chip [12]. I'm guessing that this approach is far from technically ideal, but I have heard no complaints from reviewers or users, and the keyboard switches to 1000 Hz polling when connected by USB-C. I find this quite compelling.
+
 ## Switches
 
 [Zeal's Zilent V2 (Silent Tactile)](https://zealpc.net/products/zilent?variant=5894817710118) seem to be widely regarded as either the best or among the best silent tactile switches, and Zeal seems to have a reputation for excellence in general. I'm tentatively choosing these switches, but I'll try the [Zeal Switch Sampler Pack](https://zealpc.net/products/zeal-switch-sampler-pack?variant=13152556613695) switch tester to confirm that I like them before buying a full set.
@@ -255,3 +259,7 @@ Community forum: [geekhack.org](https://geekhack.org/)
 [9] Joe Gaz (YouTube): [*How to Lube Mechanical Keyboard Switches! (Detailed)*](https://www.youtube.com/watch?v=-GkZpD58dFk)
 
 [10] Mike Walker (YouTube): [*Silencing stabs the Walker way*](https://www.youtube.com/watch?v=9pCilf3h7O4)
+
+[11] ZMK: [*Supported Hardware | ZMK Firmware*](https://zmk.dev/docs/hardware)
+
+[12] u/UJL123 (Reddit): [*How does keychron K8 pro support both QMK and bluetooth?*](https://www.reddit.com/r/olkb/comments/u2e9z5/how_does_keychron_k8_pro_support_both_qmk_and/)
