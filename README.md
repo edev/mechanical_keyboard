@@ -236,6 +236,18 @@ After talking with a friend and examining various ZMK boards and shields, it see
 
 My general strategy is simple: since the battery is the primary wear part on almost any battery-containing device, I intend to ensure that whatever battery I use is fully replaceable and standard so that I can be confident that I'll be able to replace it for at least 10 years.
 
+# Keychron K8 Pro
+
+The [Keychron K8 Pro Barebone kit](https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=39755425972313) seems to be ideal for my needs at this stage. It provides an easy entry point for my first custom keyboard, and it checks all of my boxes quite well, as far as I know. I might eventually move on to a much more involved ZMK build; if so, I'm confident that my experience building the K8 Pro will prepare me well for a more advanced follow-up project.
+
+To complete the build, all I will need are switches, keycaps, and stabilizers, plus modding and building tools. The K8 Pro includes a case and plate that I believe will work well for me, and it even includes high-quality sound damping very close to what IO Sam recommended in his build [7].
+
+Before committing to this, I will want to investigate potential issues, including:
+
+1. Battery replacement: buying a replacement, removing the original battery, installing the new one, informing the firmware (if needed), etc.
+2. Precise key layout, including shift key sizes, etc.
+3. Watch many more reviews in case I've missed other problems or issues.
+
 # Resources
 
 Marketplace: [kbdfans.com](https://kbdfans.com)
